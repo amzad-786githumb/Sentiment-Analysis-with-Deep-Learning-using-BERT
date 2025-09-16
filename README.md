@@ -18,6 +18,6 @@ BERT can be fine-tuned for tasks like question answering, named entity recogniti
 
 <ul><b>Latency issues:</b> Real-time applications may suffer from slow response times.</ul>
 
-<ul><b>Bias and fairness:</b> Since BERT is trained on large datasets from the internet, it may inherit and amplify social or cultural biases.<ul>
+<ul><b>Bias and fairness:</b> Since BERT is trained on large datasets from the internet, it may inherit and amplify social or cultural biases.</ul>
 
 <ul><b>Maintenance challenges:</b> Continuous re-training may be required to keep the model relevant as language and user needs evolve.</ul>
